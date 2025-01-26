@@ -9,7 +9,7 @@ Original [PyChord](https://github.com/yuma-m/pychord)
 
 Usage:
 
-```
+```cpp
 #include <iostream>
 #include "Chord.hpp"
 #include "ChordProgression.hpp"

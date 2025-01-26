@@ -1,6 +1,6 @@
 PyChord port to C++ 
 
-CyChord is a C++ library to handle musical chords. Parse chords, name chords, inverse notes, have fun!
+CyChord is a C++ library to handle musical chords. Parse chords, name chords, inverse chords, have fun!
 
 Improved it a bit so it can handle more cases, like A7sus or Bbm7#5/Db
 

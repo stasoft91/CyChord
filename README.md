@@ -6,6 +6,7 @@ Improved it a bit so it can handle more cases, like A7sus or Bbm7#5/Db
 
 Original [PyChord](https://github.com/yuma-m/pychord)
 
+License: MIT License
 
 Usage:
 
